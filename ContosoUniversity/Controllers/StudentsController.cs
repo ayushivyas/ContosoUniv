@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using ContosoUniversity.DAL;
 using ContosoUniversity.Models;
-//trail 1
+//trail
 
 namespace ContosoUniversity.Controllers
 {
